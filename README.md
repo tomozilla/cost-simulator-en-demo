@@ -4,7 +4,7 @@ A small learning demo: enter one month of usage and see the Supabase bill with t
 
 > **A personal learning project.** Not an official tool of any company, not a quote. Rates are what I read on the pricing page and in the docs on 2026-10-27; the covered / not-covered split follows the "Control your costs" docs page.
 
-This is the code for the Dev.to article (reading the bill, the spend cap, and this simulator): TODO-DEVTO-URL
+This is the code for the Dev.to article (reading the bill, the spend cap, and this simulator): https://dev.to/tomozilla/read-your-supabase-bill-compute-usage-and-what-the-spend-cap-covers-and-doesnt-plus-a-small-4ml4
 
 ## Files
 
